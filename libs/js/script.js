@@ -79,6 +79,13 @@ async function getProducts() {
         productReviews.innerHTML = (products[i].reviews);
         product.appendChild(productReviews);
 
+        var buyButton = document.createElement("input");
+        buyButton.classList.add("button");
+        buyButton.classList.add("purchase");
+        buyButton.setAttribute("type", 'button');
+        buyButton.setAttribute("value", 'Add to Bag');
+        product.appendChild(buyButton);
+
         // ADD PRODUCTS TO CONTAINER
         container.append(product);
     }
