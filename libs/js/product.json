@@ -1,121 +1,121 @@
- [{
-         "id": 1,
-         "name": "PINEAPPLE ENZYME PORE CLEARING CLEANSER",
-         "description": "Cleanse and exfoliate the skin with our two-in-one, foaming-gel Pineapple Enzyme Pore Clearing Cleanser.",
-         "price": "$29",
-         "imgSrc": "./libs/img/pineappleCleanserMain.png",
-         "category": "Cleanser",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked'> </span>",
-         "hoverImgSrc": "./libs/img/pineappleCleanserExtra.png"
-     },
-     {
-         "id": 2,
-         "name": "RAYS & SHINE CLEANSER",
-         "description": "Gently cleanse and brighten with this sensorial antioxidant-rich jelly cleanser.",
-         "price": "$15",
-         "imgSrc": "./libs/img/orangeCleanserMain.png",
-         "category": "Cleanser",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
-         "hoverImgSrc": "./libs/img/orangeCleanserExtra.png"
-     },
-     {
-         "id": 3,
-         "name": "STRAWBERRY FACE MILK",
-         "description": "A comforting drop of moisture to nurture skin. Formulated with Strawberry Seed Oil, Marshmallow, and Lotus Flower.",
-         "price": "$10",
-         "imgSrc": "./libs/img/strawberryMain.png",
-         "category": "Face Milk",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
-         "hoverImgSrc": "./libs/img/strawberryExtra.png"
-     },
-     {
-         "id": 4,
-         "name": "WATERMELON FACE MILK",
-         "description": "A refreshing drop of moisture to balance skin. Formulated with Watermelon Seed Oil, Cucumber Water, and Aloe, this lightweight formula will replenish hydration for a healthier, softer complexion.",
-         "price": "$10",
-         "imgSrc": "./libs/img/watermelonMain.png",
-         "category": "Face Milk",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
-         "hoverImgSrc": "./libs/img/watermelonExtra.png"
-     },
-     {
-         "id": 5,
-         "name": "HI, BUTTER MANGO BODY BUTTER",
-         "description": "We don't do dry skin. Man-go away and get butter! Enjoy softer, hydrated skin with this mango scented body butter.",
-         "price": "$36",
-         "imgSrc": "./libs/img/mangoMain.png",
-         "category": "Body Butter",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
-         "hoverImgSrc": "./libs/img/mangoHover.png"
-     },
-     {
-         "id": 6,
-         "name": "PRISM Botanical AHA + BHA Exfoliating Glow Facial ",
-         "description": "A jelly-textured, concentrated blend of plant-based AHA, and Willow Bark-based BHA in an exfoliating rinse-off weekly facial that naturally helps transform skin from dull to radiant and glowing in as little as one use.",
-         "price": "$58",
-         "imgSrc": "./libs/img/prismMain.png",
-         "category": "Face Mask",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
-         "hoverImgSrc": "./libs/img/prismHover.png"
-     },
-     {
-         "id": 7,
-         "name": "HEY, SUGAR PEACH BODY SCRUB",
-         "description": "Sweeten up your self care with this peach body scrub. The exfoliating and deeply moisturizing ingredients will transform the way your skin feels and leave you smelling amazing.",
-         "price": "$36",
-         "imgSrc": "./libs/img/peachMain.png",
-         "category": "Scrub",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
-         "hoverImgSrc": "./libs/img/peachUpClose.png"
-     },
-     {
-         "id": 8,
-         "name": "SUGAR SUGAR - CHERRY",
-         "description": "An intense, all natural and vegan lip scrub that cleanses, gently exfoliates, hydrates, and brightens lips.",
-         "price": "$16",
-         "imgSrc": "./libs/img/cherryMain.png",
-         "category": "Scrub",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
-         "hoverImgSrc": "./libs/img/cherryUpClose.png"
-     },
-     {
-         "id": 9,
-         "name": "PAPAYA SORBET ENZYME CLEANSING BALM",
-         "description": "Reveal smooth, glowing skin from the start of your routine and effortlessly dissolve makeup, dirt, and oil with the PEG-free Papaya Sorbet Enzyme Cleansing Balm.",
-         "price": "$32",
-         "imgSrc": "./libs/img/papayaMain.png",
-         "category": "Cleansing Balm",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
-         "hoverImgSrc": "./libs/img/papayaHover.png"
-     },
-     {
-         "id": 10,
-         "name": "BANANA SOUFFL'E MOISTURE CREAM",
-         "description": "This cream is a special bouncy soufflé texture that comforts like a cream but has the lightness of a gel, creating the ultimate universal moisturizer.",
-         "price": "$15",
-         "imgSrc": "./libs/img/bananaMain.png",
-         "category": "Cream",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
-         "hoverImgSrc": "./libs/img/bananaHover.png"
-     },
-     {
-         "id": 11,
-         "name": "SMOOTH SUGAR CLEAR KIWI FACE AND LIP SCRUB",
-         "description": "Discover the 1st sugar scrub with treating actives in gentle textures for deep, yet gentle, exfoliation of the skin.",
-         "price": "$24.99",
-         "imgSrc": "./libs/img/kiwiMain.png",
-         "category": "Scrub",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star'> </span> <span class = 'fa fa-star' > </span>",
-         "hoverImgSrc": "./libs/img/kiwiExtra.png"
-     },
-     {
-         "id": 12,
-         "name": "PINEAPPLE-C BRIGHTENING SERUM",
-         "description": "A lightweight, juicy serum that retexturizer, hydrates, and soothes the skin for a luminous, glowing complexion.",
-         "price": "$12",
-         "imgSrc": "./libs/img/pineappleSerumMain.png",
-         "category": "Serum",
-         "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
-         "hoverImgSrc": "./libs/img/pineappleSerumExtra.png"
-     }
- ]
+[{
+        "id": 1,
+        "name": "PINEAPPLE ENZYME PORE CLEARING CLEANSER",
+        "description": "Cleanse and exfoliate the skin with our two-in-one, foaming-gel Pineapple Enzyme Pore Clearing Cleanser.",
+        "price": "$29",
+        "imgSrc": "./libs/img/pineappleCleanserMain.png",
+        "category": "Cleanser",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked'> </span>",
+        "hoverImgSrc": "./libs/img/pineappleCleanserExtra.png"
+    },
+    {
+        "id": 2,
+        "name": "RAYS & SHINE CLEANSER",
+        "description": "Gently cleanse and brighten with this sensorial antioxidant-rich jelly cleanser.",
+        "price": "$15",
+        "imgSrc": "./libs/img/orangeCleanserMain.png",
+        "category": "Cleanser",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
+        "hoverImgSrc": "./libs/img/orangeCleanserExtra.png"
+    },
+    {
+        "id": 3,
+        "name": "STRAWBERRY FACE MILK",
+        "description": "A comforting drop of moisture to nurture skin. Formulated with Strawberry Seed Oil, Marshmallow, and Lotus Flower.",
+        "price": "$10",
+        "imgSrc": "./libs/img/strawberryMain.png",
+        "category": "Face Milk",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
+        "hoverImgSrc": "./libs/img/strawberryExtra.png"
+    },
+    {
+        "id": 4,
+        "name": "WATERMELON FACE MILK",
+        "description": "A refreshing drop of moisture to balance skin. Formulated with Watermelon Seed Oil, Cucumber Water, and Aloe, this lightweight formula will replenish hydration for a healthier, softer complexion.",
+        "price": "$10",
+        "imgSrc": "./libs/img/watermelonMain.png",
+        "category": "Face Milk",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
+        "hoverImgSrc": "./libs/img/watermelonExtra.png"
+    },
+    {
+        "id": 5,
+        "name": "HI, BUTTER MANGO BODY BUTTER",
+        "description": "We don't do dry skin. Man-go away and get butter! Enjoy softer, hydrated skin with this mango scented body butter.",
+        "price": "$36",
+        "imgSrc": "./libs/img/mangoMain.png",
+        "category": "Body Butter",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
+        "hoverImgSrc": "./libs/img/mangoHover.png"
+    },
+    {
+        "id": 6,
+        "name": "PRISM Botanical AHA + BHA Exfoliating Glow Facial ",
+        "description": "A jelly-textured, concentrated blend of plant-based AHA, and Willow Bark-based BHA in an exfoliating rinse-off weekly facial that naturally helps transform skin from dull to radiant and glowing in as little as one use.",
+        "price": "$58",
+        "imgSrc": "./libs/img/prismMain.png",
+        "category": "Face Mask",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
+        "hoverImgSrc": "./libs/img/prismHover.png"
+    },
+    {
+        "id": 7,
+        "name": "HEY, SUGAR PEACH BODY SCRUB",
+        "description": "Sweeten up your self care with this peach body scrub. The exfoliating and deeply moisturizing ingredients will transform the way your skin feels and leave you smelling amazing.",
+        "price": "$36",
+        "imgSrc": "./libs/img/peachMain.png",
+        "category": "Scrub",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
+        "hoverImgSrc": "./libs/img/peachUpClose.png"
+    },
+    {
+        "id": 8,
+        "name": "SUGAR SUGAR - CHERRY",
+        "description": "An intense, all natural and vegan lip scrub that cleanses, gently exfoliates, hydrates, and brightens lips.",
+        "price": "$16",
+        "imgSrc": "./libs/img/cherryMain.png",
+        "category": "Scrub",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
+        "hoverImgSrc": "./libs/img/cherryUpClose.png"
+    },
+    {
+        "id": 9,
+        "name": "PAPAYA SORBET ENZYME CLEANSING BALM",
+        "description": "Reveal smooth, glowing skin from the start of your routine and effortlessly dissolve makeup, dirt, and oil with the PEG-free Papaya Sorbet Enzyme Cleansing Balm.",
+        "price": "$32",
+        "imgSrc": "./libs/img/papayaMain.png",
+        "category": "Cleansing Balm",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
+        "hoverImgSrc": "./libs/img/papayaHover.png"
+    },
+    {
+        "id": 10,
+        "name": "BANANA SOUFFL'E MOISTURE CREAM",
+        "description": "This cream is a special bouncy soufflé texture that comforts like a cream but has the lightness of a gel, creating the ultimate universal moisturizer.",
+        "price": "$15",
+        "imgSrc": "./libs/img/bananaMain.png",
+        "category": "Cream",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star' > </span>",
+        "hoverImgSrc": "./libs/img/bananaHover.png"
+    },
+    {
+        "id": 11,
+        "name": "SMOOTH SUGAR CLEAR KIWI FACE AND LIP SCRUB",
+        "description": "Discover the 1st sugar scrub with treating actives in gentle textures for deep, yet gentle, exfoliation of the skin.",
+        "price": "$24.99",
+        "imgSrc": "./libs/img/kiwiMain.png",
+        "category": "Scrub",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star'> </span> <span class = 'fa fa-star' > </span>",
+        "hoverImgSrc": "./libs/img/kiwiExtra.png"
+    },
+    {
+        "id": 12,
+        "name": "PINEAPPLE-C BRIGHTENING SERUM",
+        "description": "A lightweight, juicy serum that retexturizer, hydrates, and soothes the skin for a luminous, glowing complexion.",
+        "price": "$12",
+        "imgSrc": "./libs/img/pineappleSerumMain.png",
+        "category": "Serum",
+        "reviews": "<span class='fa fa-star checked'></span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span> <span class = 'fa fa-star checked'> </span> <span class = 'fa fa-star checked' > </span>",
+        "hoverImgSrc": "./libs/img/pineappleSerumExtra.png"
+    }
+]

@@ -1,3 +1,4 @@
+/* import font family to use later */
 @import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Inter+Tight&display=swap');
 
 body {
@@ -41,7 +42,6 @@ body {
 
 .partners {
     background-color: rgb(186, 212, 221);
-
 }
 
 .partners h3 {
@@ -113,7 +113,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    z-index: -1;
+/* allows you to put elements on top of or below other elements */
+    z-index: -1;  
 }
 
 .radio input {
@@ -140,7 +141,6 @@ body {
     border: none;
     max-width: 230px;
     border-radius: 4px;
-
 }
 
 .button:hover {
@@ -150,11 +150,11 @@ body {
 #logo {
     height: 50px;
     width: 45px;
-
 }
 
 #flex-start {
     position: absolute;
+    /* moves an element 40px from the left of the screen */
     left: 40px;
 }
 
@@ -218,7 +218,9 @@ body {
     font-size: 12px;
     overflow: hidden;
 }
-
+/* keyframe is a rule for the free shipping animation. 
+slidein is the name of the keyframe. transform is how the element is changed. 
+It starts off at zero and moves 100% to the right of screen on the x-axis*/
 @keyframes slidein {
     0% {
         transform: translateX(0);
@@ -228,10 +230,13 @@ body {
         transform: translateX(100%);
     }
 }
-
+/* this is the styling for the slidin function. The first value is how long 
+the animation should take, the second value means the animation has a slow start.
+,third value is how long it should be delayed before it starts, in this case 
+0 seconds, fourth value is how many times the animation should be played.
+backwards is the direction the animation moves, then slidein is the name of the keyframe.*/
 .callout-text {
     animation: 10s ease-in 0s infinite backwards slidein;
-    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
 #nav .brand-name {
@@ -253,7 +258,6 @@ body {
 .image-container h3 {
     font-family: 'Inter Tight-Bold', sans-serif;
     font-weight: bold;
-
 }
 
 .image-container img {
@@ -288,7 +292,6 @@ footer ul {
     padding-left: 0;
 }
 
-
 footer a {
     text-decoration: none;
     color: black;
@@ -302,7 +305,8 @@ footer img {
 #socials ul {
     display: flex;
 }
-
+/* transition allows you to add certain styles and make them appear 
+slower or faster over a given time*/
 #socials li {
     padding-right: 10px;
     transition: all 0.3s ease;
@@ -316,7 +320,7 @@ footer img {
 .list-container li:hover {
     padding-left: 8px;
 }
-
+/*opacity is how visable an element is. It goes from zero to 1.*/
 #socials li:hover {
     opacity: .6;
 }
@@ -339,7 +343,8 @@ footer h3 {
     height: 390px;
     width: 380px;
 }
-
+/* min-width/height is setting default styles for when the display of the 
+image changes */
 .product {
     text-align: center;
     margin: 30px;
@@ -427,7 +432,6 @@ footer h3 {
 
 .about-us h1 {
     color: #cb4631;
-    box-shadow: aquamarine;
     background-color: #f8d5d5;
     display: inline-block;
     padding: 10px 60px;
@@ -462,7 +466,7 @@ footer h3 {
     background-attachment: fixed;
     z-index: -1;
 }
-
+/* hide mobile version of home page on desktop */
 .main--mobile {
     display: none;
 }
@@ -481,7 +485,7 @@ footer h3 {
     padding: 10px
 }
 
-/* media queries */
+/* media queries tablet styles only show under 800px*/
 @media only screen and (max-width: 800px) {
     .main {
         padding: 0;
@@ -518,7 +522,7 @@ footer h3 {
     }
 
 }
-
+/* mobile styles only show at or under 500px */
 @media only screen and (max-width: 500px) {
     .image-content {
         height: 300px;
