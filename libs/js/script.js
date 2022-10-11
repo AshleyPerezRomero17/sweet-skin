@@ -44,12 +44,14 @@ async function getProducts() {
         const imgSrc = products[i].imgSrc;
         productImgSrc.classList.add("main-img");
         productImgSrc.setAttribute("src", imgSrc);
+        productImgSrc.setAttribute("alt", "productPhoto");
         product.appendChild(productImgSrc);
 
         var productHoverImgSrc = document.createElement("img");
         const hoverImgSrc = products[i].hoverImgSrc;
         productHoverImgSrc.classList.add("hover-img");
         productHoverImgSrc.setAttribute("src", hoverImgSrc);
+        productImgSrc.setAttribute("alt", "productHoverImg");
         product.appendChild(productHoverImgSrc);
 
         // create elements for product
